@@ -34,8 +34,8 @@ logger.addHandler(ch)
 logger.addHandler(logfh)
 
 # Global environments, variables to use later in the functions
-AZURE_STORAGE_ACCOUNT_KEY="f5snF43Q0lj8YG5M/+47Q2Gsb9B59dEeEjQdnqr21rfJ3wag2sSzGqJdxPd3Qp68TM0D8R3Czj007Bf7RdPlOg=="
-AZURE_STORAGE_ACCOUNT_NAME="asrdecodingdata"
+AZURE_STORAGE_ACCOUNT_KEY=""
+AZURE_STORAGE_ACCOUNT_NAME=""
 AZURE_STORAGE_CONNECTIONSTRING="DefaultEndpointsProtocol=https;AccountName=" + AZURE_STORAGE_ACCOUNT_NAME + ";AccountKey=" + AZURE_STORAGE_ACCOUNT_KEY + ";EndpointSuffix=core.windows.net"
 
 class AzureTableService():

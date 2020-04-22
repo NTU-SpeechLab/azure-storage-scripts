@@ -40,8 +40,8 @@ logger.addHandler(logfh)
 # Step5: Clean, remove data to save spaces in the decoding server
 
 # Global environments, variables to use later in the functions
-AZURE_STORAGE_ACCOUNT_KEY="f5snF43Q0lj8YG5M/+47Q2Gsb9B59dEeEjQdnqr21rfJ3wag2sSzGqJdxPd3Qp68TM0D8R3Czj007Bf7RdPlOg=="
-AZURE_STORAGE_ACCOUNT_NAME="asrdecodingdata"
+AZURE_STORAGE_ACCOUNT_KEY=""
+AZURE_STORAGE_ACCOUNT_NAME=""
 AZURE_STORAGE_CONNECTIONSTRING="DefaultEndpointsProtocol=https;AccountName=" + AZURE_STORAGE_ACCOUNT_NAME + ";AccountKey=" + AZURE_STORAGE_ACCOUNT_KEY + ";EndpointSuffix=core.windows.net"
 
 # Get the date from the file 
@@ -276,7 +276,7 @@ if __name__ == "__main__":
     basename = "sgdecoding"
     language = "cs"
     systemtype = "online"
-    serverip = "40.90.169.207"
+    serverip = "40.90.x.x"
 
     dataDir = "/export/data/raw"
     logDir = "/export/data/logs"
