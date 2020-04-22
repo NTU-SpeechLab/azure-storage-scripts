@@ -8,7 +8,10 @@ These scripts to manage and upload all user data (raw audio and transcription) f
     pip install slugify
 
   To run these scripts, you need to have astorage account, and key. Go to the Azure portal and your storage account -> Settings -> Access key
-  <add picture here>
+  
+  <p align="center">
+  <img src="storage_account.png" width="450" align="center">
+  </p>
   
 ## Azure Blob Container
 
