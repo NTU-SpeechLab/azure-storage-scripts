@@ -1,0 +1,293 @@
+    INFO 2020-04-17 09:09:22,530 Hello from from upload to storage server, using Azure BlobContainer and Table! 
+    INFO 2020-04-17 09:09:22,580 Create a table with name - sgdecodingcsonline 
+    INFO 2020-04-17 09:09:22,661 Create the metadata for fileId 33fdb555-3cf6-4f02-8d2b-4c551236ef8b 
+    INFO 2020-04-17 09:09:23,077 Uploading a file to blob storage: /export/data/raw/138-75-17-200_33fdb555-3cf6-4f02-8d2b-4c551236ef8b.raw 
+    INFO 2020-04-17 09:09:23,077 Checking the existence of the blob name in azure: 138-75-17-200_33fdb555-3cf6-4f02-8d2b-4c551236ef8b.raw 
+    INFO 2020-04-17 09:09:23,077 
+List blobs in the container 
+    INFO 2020-04-17 09:09:23,197 Temp file = /export/data/raw/138-75-17-200_33fdb555-3cf6-4f02-8d2b-4c551236ef8b.raw 
+    INFO 2020-04-17 09:09:23,197 
+Uploading to Blob storage as blob 138-75-17-200_33fdb555-3cf6-4f02-8d2b-4c551236ef8b.raw 
+    INFO 2020-04-17 09:09:23,215 Inserting file successfully. 
+    INFO 2020-04-17 09:09:23,215 Inserting a new entity into table - sgdecodingcsonline 
+    INFO 2020-04-17 09:09:23,249 Successfully inserted the new entity 
+    INFO 2020-04-17 09:09:23,249 Read the inserted entity. 
+    INFO 2020-04-17 09:09:23,258 sgdecoding_online_cs 
+    INFO 2020-04-17 09:09:23,258 138-75-17-200_33fdb555-3cf6-4f02-8d2b-4c551236ef8b.raw 
+    INFO 2020-04-17 09:09:23,258 Create the metadata for fileId 2adacb42-4cf6-4dc3-9371-820b3f8d2995 
+    INFO 2020-04-17 09:09:23,677 Uploading a file to blob storage: /export/data/raw/138-75-17-200_2adacb42-4cf6-4dc3-9371-820b3f8d2995.txt 
+    INFO 2020-04-17 09:09:23,678 Checking the existence of the blob name in azure: 138-75-17-200_2adacb42-4cf6-4dc3-9371-820b3f8d2995.txt 
+    INFO 2020-04-17 09:09:23,678 
+List blobs in the container 
+    INFO 2020-04-17 09:09:23,898 Temp file = /export/data/raw/138-75-17-200_2adacb42-4cf6-4dc3-9371-820b3f8d2995.txt 
+    INFO 2020-04-17 09:09:23,898 
+Uploading to Blob storage as blob 138-75-17-200_2adacb42-4cf6-4dc3-9371-820b3f8d2995.txt 
+    INFO 2020-04-17 09:09:23,916 Inserting file successfully. 
+    INFO 2020-04-17 09:09:23,917 Inserting a new entity into table - sgdecodingcsonline 
+    INFO 2020-04-17 09:09:23,923 Successfully inserted the new entity 
+    INFO 2020-04-17 09:09:23,924 Read the inserted entity. 
+    INFO 2020-04-17 09:09:23,930 sgdecoding_online_cs 
+    INFO 2020-04-17 09:09:23,930 138-75-17-200_2adacb42-4cf6-4dc3-9371-820b3f8d2995.txt 
+    INFO 2020-04-17 09:09:23,930 Create the metadata for fileId c394e9d8-e6d0-4af7-aae5-383042137fd7 
+    INFO 2020-04-17 09:09:24,368 Uploading a file to blob storage: /export/data/raw/138-75-17-200_c394e9d8-e6d0-4af7-aae5-383042137fd7.raw 
+    INFO 2020-04-17 09:09:24,369 Checking the existence of the blob name in azure: 138-75-17-200_c394e9d8-e6d0-4af7-aae5-383042137fd7.raw 
+    INFO 2020-04-17 09:09:24,369 
+List blobs in the container 
+    INFO 2020-04-17 09:09:24,628 Temp file = /export/data/raw/138-75-17-200_c394e9d8-e6d0-4af7-aae5-383042137fd7.raw 
+    INFO 2020-04-17 09:09:24,628 
+Uploading to Blob storage as blob 138-75-17-200_c394e9d8-e6d0-4af7-aae5-383042137fd7.raw 
+    INFO 2020-04-17 09:09:24,638 Inserting file successfully. 
+    INFO 2020-04-17 09:09:24,638 Inserting a new entity into table - sgdecodingcsonline 
+    INFO 2020-04-17 09:09:24,644 Successfully inserted the new entity 
+    INFO 2020-04-17 09:09:24,645 Read the inserted entity. 
+    INFO 2020-04-17 09:09:24,651 sgdecoding_online_cs 
+    INFO 2020-04-17 09:09:24,651 138-75-17-200_c394e9d8-e6d0-4af7-aae5-383042137fd7.raw 
+    INFO 2020-04-17 09:09:24,651 Create the metadata for fileId 2adacb42-4cf6-4dc3-9371-820b3f8d2995 
+    INFO 2020-04-17 09:09:25,078 Uploading a file to blob storage: /export/data/raw/138-75-17-200_2adacb42-4cf6-4dc3-9371-820b3f8d2995.raw 
+    INFO 2020-04-17 09:09:25,078 Checking the existence of the blob name in azure: 138-75-17-200_2adacb42-4cf6-4dc3-9371-820b3f8d2995.raw 
+    INFO 2020-04-17 09:09:25,078 
+List blobs in the container 
+    INFO 2020-04-17 09:09:25,293 Temp file = /export/data/raw/138-75-17-200_2adacb42-4cf6-4dc3-9371-820b3f8d2995.raw 
+    INFO 2020-04-17 09:09:25,293 
+Uploading to Blob storage as blob 138-75-17-200_2adacb42-4cf6-4dc3-9371-820b3f8d2995.raw 
+    INFO 2020-04-17 09:09:25,544 Inserting file successfully. 
+    INFO 2020-04-17 09:09:25,544 Inserting a new entity into table - sgdecodingcsonline 
+    INFO 2020-04-17 09:09:25,551 Successfully inserted the new entity 
+    INFO 2020-04-17 09:09:25,551 Read the inserted entity. 
+    INFO 2020-04-17 09:09:25,558 sgdecoding_online_cs 
+    INFO 2020-04-17 09:09:25,558 138-75-17-200_2adacb42-4cf6-4dc3-9371-820b3f8d2995.raw 
+    INFO 2020-04-17 09:09:25,559 Clean the file: /export/data/raw/138-75-17-200_33fdb555-3cf6-4f02-8d2b-4c551236ef8b.raw 
+    INFO 2020-04-17 09:09:25,559 Clean the file: /export/data/raw/138-75-17-200_2adacb42-4cf6-4dc3-9371-820b3f8d2995.txt 
+    INFO 2020-04-17 09:09:25,559 Clean the file: /export/data/raw/138-75-17-200_c394e9d8-e6d0-4af7-aae5-383042137fd7.raw 
+    INFO 2020-04-17 09:09:25,559 Clean the file: /export/data/raw/138-75-17-200_2adacb42-4cf6-4dc3-9371-820b3f8d2995.raw 
+    INFO 2020-04-17 09:27:40,695 Hello from from upload to storage server, using Azure BlobContainer and Table! 
+    INFO 2020-04-17 09:27:40,745 Create a table with name - sgdecodingcsonline 
+    INFO 2020-04-17 10:32:28,842 Hello from from upload to storage server, using Azure BlobContainer and Table! 
+    INFO 2020-04-17 10:32:28,896 Create a table with name - sgdecodingcsonline 
+    INFO 2020-04-22 02:18:13,751 Hello from from upload to storage server, using Azure BlobContainer and Table! 
+    INFO 2020-04-22 02:18:13,905 Create a table with name - sgdecodingcsonline 
+    INFO 2020-04-22 02:18:14,053 Create the metadata for fileId 4fb18cff-480f-4d31-ae86-1e8e3677d8b3 
+    INFO 2020-04-22 02:18:15,627 Uploading a file to blob storage: /export/data/raw/138-75-17-200_4fb18cff-480f-4d31-ae86-1e8e3677d8b3.raw 
+    INFO 2020-04-22 02:18:15,628 Checking the existence of the blob name in azure: 138-75-17-200_4fb18cff-480f-4d31-ae86-1e8e3677d8b3.raw 
+    INFO 2020-04-22 02:18:15,628 
+List blobs in the container 
+    INFO 2020-04-22 02:18:15,684 Temp file = /export/data/raw/138-75-17-200_4fb18cff-480f-4d31-ae86-1e8e3677d8b3.raw 
+    INFO 2020-04-22 02:18:15,684 
+Uploading to Blob storage as blob 138-75-17-200_4fb18cff-480f-4d31-ae86-1e8e3677d8b3.raw 
+    INFO 2020-04-22 02:18:15,733 Inserting file successfully. 
+    INFO 2020-04-22 02:18:15,733 Inserting a new entity into table - sgdecodingcsonline 
+    INFO 2020-04-22 02:18:15,748 Successfully inserted the new entity 
+    INFO 2020-04-22 02:18:15,748 Read the inserted entity. 
+    INFO 2020-04-22 02:18:15,754 sgdecoding_online_cs 
+    INFO 2020-04-22 02:18:15,754 138-75-17-200_4fb18cff-480f-4d31-ae86-1e8e3677d8b3.raw 
+    INFO 2020-04-22 02:18:15,754 Create the metadata for fileId b77bf498-a090-4460-ab82-ffb392596e23 
+    INFO 2020-04-22 02:18:16,305 Uploading a file to blob storage: /export/data/raw/138-75-17-200_b77bf498-a090-4460-ab82-ffb392596e23.txt 
+    INFO 2020-04-22 02:18:16,305 Checking the existence of the blob name in azure: 138-75-17-200_b77bf498-a090-4460-ab82-ffb392596e23.txt 
+    INFO 2020-04-22 02:18:16,305 
+List blobs in the container 
+    INFO 2020-04-22 02:18:16,353 Temp file = /export/data/raw/138-75-17-200_b77bf498-a090-4460-ab82-ffb392596e23.txt 
+    INFO 2020-04-22 02:18:16,353 
+Uploading to Blob storage as blob 138-75-17-200_b77bf498-a090-4460-ab82-ffb392596e23.txt 
+    INFO 2020-04-22 02:18:16,378 Inserting file successfully. 
+    INFO 2020-04-22 02:18:16,378 Inserting a new entity into table - sgdecodingcsonline 
+    INFO 2020-04-22 02:18:16,384 Successfully inserted the new entity 
+    INFO 2020-04-22 02:18:16,384 Read the inserted entity. 
+    INFO 2020-04-22 02:18:16,390 sgdecoding_online_cs 
+    INFO 2020-04-22 02:18:16,390 138-75-17-200_b77bf498-a090-4460-ab82-ffb392596e23.txt 
+    INFO 2020-04-22 02:18:16,390 Create the metadata for fileId 355a4915-fe8d-48ad-b273-fb646b7a820d 
+    INFO 2020-04-22 02:18:16,954 Uploading a file to blob storage: /export/data/raw/155-69-149-126_355a4915-fe8d-48ad-b273-fb646b7a820d.txt 
+    INFO 2020-04-22 02:18:16,955 Checking the existence of the blob name in azure: 155-69-149-126_355a4915-fe8d-48ad-b273-fb646b7a820d.txt 
+    INFO 2020-04-22 02:18:16,955 
+List blobs in the container 
+    INFO 2020-04-22 02:18:17,000 Temp file = /export/data/raw/155-69-149-126_355a4915-fe8d-48ad-b273-fb646b7a820d.txt 
+    INFO 2020-04-22 02:18:17,000 
+Uploading to Blob storage as blob 155-69-149-126_355a4915-fe8d-48ad-b273-fb646b7a820d.txt 
+    INFO 2020-04-22 02:18:17,024 Inserting file successfully. 
+    INFO 2020-04-22 02:18:17,024 Inserting a new entity into table - sgdecodingcsonline 
+    INFO 2020-04-22 02:18:17,032 Successfully inserted the new entity 
+    INFO 2020-04-22 02:18:17,033 Read the inserted entity. 
+    INFO 2020-04-22 02:18:17,038 sgdecoding_online_cs 
+    INFO 2020-04-22 02:18:17,038 155-69-149-126_355a4915-fe8d-48ad-b273-fb646b7a820d.txt 
+    INFO 2020-04-22 02:18:17,038 Create the metadata for fileId 3ebd30c1-3c8e-43fd-aa1c-5ce7d50d3d6c 
+    INFO 2020-04-22 02:18:17,547 Uploading a file to blob storage: /export/data/raw/155-69-149-126_3ebd30c1-3c8e-43fd-aa1c-5ce7d50d3d6c.raw 
+    INFO 2020-04-22 02:18:17,548 Checking the existence of the blob name in azure: 155-69-149-126_3ebd30c1-3c8e-43fd-aa1c-5ce7d50d3d6c.raw 
+    INFO 2020-04-22 02:18:17,548 
+List blobs in the container 
+    INFO 2020-04-22 02:18:17,595 Temp file = /export/data/raw/155-69-149-126_3ebd30c1-3c8e-43fd-aa1c-5ce7d50d3d6c.raw 
+    INFO 2020-04-22 02:18:17,595 
+Uploading to Blob storage as blob 155-69-149-126_3ebd30c1-3c8e-43fd-aa1c-5ce7d50d3d6c.raw 
+    INFO 2020-04-22 02:18:17,615 Inserting file successfully. 
+    INFO 2020-04-22 02:18:17,616 Inserting a new entity into table - sgdecodingcsonline 
+    INFO 2020-04-22 02:18:17,622 Successfully inserted the new entity 
+    INFO 2020-04-22 02:18:17,622 Read the inserted entity. 
+    INFO 2020-04-22 02:18:17,628 sgdecoding_online_cs 
+    INFO 2020-04-22 02:18:17,628 155-69-149-126_3ebd30c1-3c8e-43fd-aa1c-5ce7d50d3d6c.raw 
+    INFO 2020-04-22 02:18:17,628 Create the metadata for fileId af411794-8023-4028-bac4-e306ef8bf9f6 
+    INFO 2020-04-22 02:18:18,167 Uploading a file to blob storage: /export/data/raw/138-75-17-200_af411794-8023-4028-bac4-e306ef8bf9f6.txt 
+    INFO 2020-04-22 02:18:18,168 Checking the existence of the blob name in azure: 138-75-17-200_af411794-8023-4028-bac4-e306ef8bf9f6.txt 
+    INFO 2020-04-22 02:18:18,168 
+List blobs in the container 
+    INFO 2020-04-22 02:18:18,217 Temp file = /export/data/raw/138-75-17-200_af411794-8023-4028-bac4-e306ef8bf9f6.txt 
+    INFO 2020-04-22 02:18:18,217 
+Uploading to Blob storage as blob 138-75-17-200_af411794-8023-4028-bac4-e306ef8bf9f6.txt 
+    INFO 2020-04-22 02:18:18,228 Inserting file successfully. 
+    INFO 2020-04-22 02:18:18,228 Inserting a new entity into table - sgdecodingcsonline 
+    INFO 2020-04-22 02:18:18,234 Successfully inserted the new entity 
+    INFO 2020-04-22 02:18:18,234 Read the inserted entity. 
+    INFO 2020-04-22 02:18:18,240 sgdecoding_online_cs 
+    INFO 2020-04-22 02:18:18,240 138-75-17-200_af411794-8023-4028-bac4-e306ef8bf9f6.txt 
+    INFO 2020-04-22 02:18:18,240 Create the metadata for fileId ba1649c9-5bcf-4b4d-b358-87e4db91b48a 
+    INFO 2020-04-22 02:18:18,758 Uploading a file to blob storage: /export/data/raw/138-75-17-200_ba1649c9-5bcf-4b4d-b358-87e4db91b48a.raw 
+    INFO 2020-04-22 02:18:18,759 Checking the existence of the blob name in azure: 138-75-17-200_ba1649c9-5bcf-4b4d-b358-87e4db91b48a.raw 
+    INFO 2020-04-22 02:18:18,759 
+List blobs in the container 
+    INFO 2020-04-22 02:18:18,806 Temp file = /export/data/raw/138-75-17-200_ba1649c9-5bcf-4b4d-b358-87e4db91b48a.raw 
+    INFO 2020-04-22 02:18:18,806 
+Uploading to Blob storage as blob 138-75-17-200_ba1649c9-5bcf-4b4d-b358-87e4db91b48a.raw 
+    INFO 2020-04-22 02:18:18,836 Inserting file successfully. 
+    INFO 2020-04-22 02:18:18,837 Inserting a new entity into table - sgdecodingcsonline 
+    INFO 2020-04-22 02:18:18,842 Successfully inserted the new entity 
+    INFO 2020-04-22 02:18:18,843 Read the inserted entity. 
+    INFO 2020-04-22 02:18:18,848 sgdecoding_online_cs 
+    INFO 2020-04-22 02:18:18,848 138-75-17-200_ba1649c9-5bcf-4b4d-b358-87e4db91b48a.raw 
+    INFO 2020-04-22 02:18:18,848 Create the metadata for fileId 3ebd30c1-3c8e-43fd-aa1c-5ce7d50d3d6c 
+    INFO 2020-04-22 02:18:19,391 Uploading a file to blob storage: /export/data/raw/155-69-149-126_3ebd30c1-3c8e-43fd-aa1c-5ce7d50d3d6c.txt 
+    INFO 2020-04-22 02:18:19,392 Checking the existence of the blob name in azure: 155-69-149-126_3ebd30c1-3c8e-43fd-aa1c-5ce7d50d3d6c.txt 
+    INFO 2020-04-22 02:18:19,392 
+List blobs in the container 
+    INFO 2020-04-22 02:18:19,442 Temp file = /export/data/raw/155-69-149-126_3ebd30c1-3c8e-43fd-aa1c-5ce7d50d3d6c.txt 
+    INFO 2020-04-22 02:18:19,442 
+Uploading to Blob storage as blob 155-69-149-126_3ebd30c1-3c8e-43fd-aa1c-5ce7d50d3d6c.txt 
+    INFO 2020-04-22 02:18:19,453 Inserting file successfully. 
+    INFO 2020-04-22 02:18:19,453 Inserting a new entity into table - sgdecodingcsonline 
+    INFO 2020-04-22 02:18:19,459 Successfully inserted the new entity 
+    INFO 2020-04-22 02:18:19,459 Read the inserted entity. 
+    INFO 2020-04-22 02:18:19,465 sgdecoding_online_cs 
+    INFO 2020-04-22 02:18:19,466 155-69-149-126_3ebd30c1-3c8e-43fd-aa1c-5ce7d50d3d6c.txt 
+    INFO 2020-04-22 02:18:19,466 Create the metadata for fileId 355a4915-fe8d-48ad-b273-fb646b7a820d 
+    INFO 2020-04-22 02:18:20,008 Uploading a file to blob storage: /export/data/raw/155-69-149-126_355a4915-fe8d-48ad-b273-fb646b7a820d.raw 
+    INFO 2020-04-22 02:18:20,009 Checking the existence of the blob name in azure: 155-69-149-126_355a4915-fe8d-48ad-b273-fb646b7a820d.raw 
+    INFO 2020-04-22 02:18:20,009 
+List blobs in the container 
+    INFO 2020-04-22 02:18:20,065 Temp file = /export/data/raw/155-69-149-126_355a4915-fe8d-48ad-b273-fb646b7a820d.raw 
+    INFO 2020-04-22 02:18:20,065 
+Uploading to Blob storage as blob 155-69-149-126_355a4915-fe8d-48ad-b273-fb646b7a820d.raw 
+    INFO 2020-04-22 02:18:20,082 Inserting file successfully. 
+    INFO 2020-04-22 02:18:20,082 Inserting a new entity into table - sgdecodingcsonline 
+    INFO 2020-04-22 02:18:20,089 Successfully inserted the new entity 
+    INFO 2020-04-22 02:18:20,089 Read the inserted entity. 
+    INFO 2020-04-22 02:18:20,094 sgdecoding_online_cs 
+    INFO 2020-04-22 02:18:20,095 155-69-149-126_355a4915-fe8d-48ad-b273-fb646b7a820d.raw 
+    INFO 2020-04-22 02:18:20,095 Create the metadata for fileId d2d17511-143e-4e53-8677-87fdcc6147a7 
+    INFO 2020-04-22 02:18:20,633 Uploading a file to blob storage: /export/data/raw/138-75-17-200_d2d17511-143e-4e53-8677-87fdcc6147a7.raw 
+    INFO 2020-04-22 02:18:20,633 Checking the existence of the blob name in azure: 138-75-17-200_d2d17511-143e-4e53-8677-87fdcc6147a7.raw 
+    INFO 2020-04-22 02:18:20,633 
+List blobs in the container 
+    INFO 2020-04-22 02:18:20,687 Temp file = /export/data/raw/138-75-17-200_d2d17511-143e-4e53-8677-87fdcc6147a7.raw 
+    INFO 2020-04-22 02:18:20,687 
+Uploading to Blob storage as blob 138-75-17-200_d2d17511-143e-4e53-8677-87fdcc6147a7.raw 
+    INFO 2020-04-22 02:18:20,697 Inserting file successfully. 
+    INFO 2020-04-22 02:18:20,697 Inserting a new entity into table - sgdecodingcsonline 
+    INFO 2020-04-22 02:18:20,709 Successfully inserted the new entity 
+    INFO 2020-04-22 02:18:20,709 Read the inserted entity. 
+    INFO 2020-04-22 02:18:20,714 sgdecoding_online_cs 
+    INFO 2020-04-22 02:18:20,715 138-75-17-200_d2d17511-143e-4e53-8677-87fdcc6147a7.raw 
+    INFO 2020-04-22 02:18:20,715 Create the metadata for fileId b77bf498-a090-4460-ab82-ffb392596e23 
+    INFO 2020-04-22 02:18:21,267 Uploading a file to blob storage: /export/data/raw/138-75-17-200_b77bf498-a090-4460-ab82-ffb392596e23.raw 
+    INFO 2020-04-22 02:18:21,267 Checking the existence of the blob name in azure: 138-75-17-200_b77bf498-a090-4460-ab82-ffb392596e23.raw 
+    INFO 2020-04-22 02:18:21,268 
+List blobs in the container 
+    INFO 2020-04-22 02:18:21,314 Temp file = /export/data/raw/138-75-17-200_b77bf498-a090-4460-ab82-ffb392596e23.raw 
+    INFO 2020-04-22 02:18:21,315 
+Uploading to Blob storage as blob 138-75-17-200_b77bf498-a090-4460-ab82-ffb392596e23.raw 
+    INFO 2020-04-22 02:18:22,023 Inserting file successfully. 
+    INFO 2020-04-22 02:18:22,023 Inserting a new entity into table - sgdecodingcsonline 
+    INFO 2020-04-22 02:18:22,029 Successfully inserted the new entity 
+    INFO 2020-04-22 02:18:22,030 Read the inserted entity. 
+    INFO 2020-04-22 02:18:22,035 sgdecoding_online_cs 
+    INFO 2020-04-22 02:18:22,035 138-75-17-200_b77bf498-a090-4460-ab82-ffb392596e23.raw 
+    INFO 2020-04-22 02:18:22,035 Create the metadata for fileId 41d6bad2-e36a-4f27-ae71-b07f32d02408 
+    INFO 2020-04-22 02:18:22,558 Uploading a file to blob storage: /export/data/raw/155-69-149-126_41d6bad2-e36a-4f27-ae71-b07f32d02408.raw 
+    INFO 2020-04-22 02:18:22,558 Checking the existence of the blob name in azure: 155-69-149-126_41d6bad2-e36a-4f27-ae71-b07f32d02408.raw 
+    INFO 2020-04-22 02:18:22,559 
+List blobs in the container 
+    INFO 2020-04-22 02:18:22,609 Temp file = /export/data/raw/155-69-149-126_41d6bad2-e36a-4f27-ae71-b07f32d02408.raw 
+    INFO 2020-04-22 02:18:22,609 
+Uploading to Blob storage as blob 155-69-149-126_41d6bad2-e36a-4f27-ae71-b07f32d02408.raw 
+    INFO 2020-04-22 02:18:22,624 Inserting file successfully. 
+    INFO 2020-04-22 02:18:22,624 Inserting a new entity into table - sgdecodingcsonline 
+    INFO 2020-04-22 02:18:22,631 Successfully inserted the new entity 
+    INFO 2020-04-22 02:18:22,631 Read the inserted entity. 
+    INFO 2020-04-22 02:18:22,637 sgdecoding_online_cs 
+    INFO 2020-04-22 02:18:22,637 155-69-149-126_41d6bad2-e36a-4f27-ae71-b07f32d02408.raw 
+    INFO 2020-04-22 02:18:22,637 Create the metadata for fileId af411794-8023-4028-bac4-e306ef8bf9f6 
+    INFO 2020-04-22 02:18:23,167 Uploading a file to blob storage: /export/data/raw/138-75-17-200_af411794-8023-4028-bac4-e306ef8bf9f6.raw 
+    INFO 2020-04-22 02:18:23,168 Checking the existence of the blob name in azure: 138-75-17-200_af411794-8023-4028-bac4-e306ef8bf9f6.raw 
+    INFO 2020-04-22 02:18:23,168 
+List blobs in the container 
+    INFO 2020-04-22 02:18:23,219 Temp file = /export/data/raw/138-75-17-200_af411794-8023-4028-bac4-e306ef8bf9f6.raw 
+    INFO 2020-04-22 02:18:23,220 
+Uploading to Blob storage as blob 138-75-17-200_af411794-8023-4028-bac4-e306ef8bf9f6.raw 
+    INFO 2020-04-22 02:18:23,351 Inserting file successfully. 
+    INFO 2020-04-22 02:18:23,352 Inserting a new entity into table - sgdecodingcsonline 
+    INFO 2020-04-22 02:18:23,358 Successfully inserted the new entity 
+    INFO 2020-04-22 02:18:23,358 Read the inserted entity. 
+    INFO 2020-04-22 02:18:23,364 sgdecoding_online_cs 
+    INFO 2020-04-22 02:18:23,364 138-75-17-200_af411794-8023-4028-bac4-e306ef8bf9f6.raw 
+    INFO 2020-04-22 02:18:23,365 Create the metadata for fileId 9e78d9be-d453-499b-85f4-1bc20fc56e42 
+    INFO 2020-04-22 02:18:23,874 Uploading a file to blob storage: /export/data/raw/155-69-149-126_9e78d9be-d453-499b-85f4-1bc20fc56e42.txt 
+    INFO 2020-04-22 02:18:23,875 Checking the existence of the blob name in azure: 155-69-149-126_9e78d9be-d453-499b-85f4-1bc20fc56e42.txt 
+    INFO 2020-04-22 02:18:23,875 
+List blobs in the container 
+    INFO 2020-04-22 02:18:23,928 Temp file = /export/data/raw/155-69-149-126_9e78d9be-d453-499b-85f4-1bc20fc56e42.txt 
+    INFO 2020-04-22 02:18:23,928 
+Uploading to Blob storage as blob 155-69-149-126_9e78d9be-d453-499b-85f4-1bc20fc56e42.txt 
+    INFO 2020-04-22 02:18:23,940 Inserting file successfully. 
+    INFO 2020-04-22 02:18:23,940 Inserting a new entity into table - sgdecodingcsonline 
+    INFO 2020-04-22 02:18:23,951 Successfully inserted the new entity 
+    INFO 2020-04-22 02:18:23,951 Read the inserted entity. 
+    INFO 2020-04-22 02:18:23,957 sgdecoding_online_cs 
+    INFO 2020-04-22 02:18:23,957 155-69-149-126_9e78d9be-d453-499b-85f4-1bc20fc56e42.txt 
+    INFO 2020-04-22 02:18:23,957 Create the metadata for fileId 41d6bad2-e36a-4f27-ae71-b07f32d02408 
+    INFO 2020-04-22 02:18:24,462 Uploading a file to blob storage: /export/data/raw/155-69-149-126_41d6bad2-e36a-4f27-ae71-b07f32d02408.txt 
+    INFO 2020-04-22 02:18:24,463 Checking the existence of the blob name in azure: 155-69-149-126_41d6bad2-e36a-4f27-ae71-b07f32d02408.txt 
+    INFO 2020-04-22 02:18:24,463 
+List blobs in the container 
+    INFO 2020-04-22 02:18:24,513 Temp file = /export/data/raw/155-69-149-126_41d6bad2-e36a-4f27-ae71-b07f32d02408.txt 
+    INFO 2020-04-22 02:18:24,514 
+Uploading to Blob storage as blob 155-69-149-126_41d6bad2-e36a-4f27-ae71-b07f32d02408.txt 
+    INFO 2020-04-22 02:18:24,524 Inserting file successfully. 
+    INFO 2020-04-22 02:18:24,524 Inserting a new entity into table - sgdecodingcsonline 
+    INFO 2020-04-22 02:18:24,529 Successfully inserted the new entity 
+    INFO 2020-04-22 02:18:24,530 Read the inserted entity. 
+    INFO 2020-04-22 02:18:24,535 sgdecoding_online_cs 
+    INFO 2020-04-22 02:18:24,535 155-69-149-126_41d6bad2-e36a-4f27-ae71-b07f32d02408.txt 
+    INFO 2020-04-22 02:18:24,535 Create the metadata for fileId 9e78d9be-d453-499b-85f4-1bc20fc56e42 
+    INFO 2020-04-22 02:18:25,052 Uploading a file to blob storage: /export/data/raw/155-69-149-126_9e78d9be-d453-499b-85f4-1bc20fc56e42.raw 
+    INFO 2020-04-22 02:18:25,052 Checking the existence of the blob name in azure: 155-69-149-126_9e78d9be-d453-499b-85f4-1bc20fc56e42.raw 
+    INFO 2020-04-22 02:18:25,052 
+List blobs in the container 
+    INFO 2020-04-22 02:18:25,109 Temp file = /export/data/raw/155-69-149-126_9e78d9be-d453-499b-85f4-1bc20fc56e42.raw 
+    INFO 2020-04-22 02:18:25,109 
+Uploading to Blob storage as blob 155-69-149-126_9e78d9be-d453-499b-85f4-1bc20fc56e42.raw 
+    INFO 2020-04-22 02:18:25,129 Inserting file successfully. 
+    INFO 2020-04-22 02:18:25,130 Inserting a new entity into table - sgdecodingcsonline 
+    INFO 2020-04-22 02:18:25,135 Successfully inserted the new entity 
+    INFO 2020-04-22 02:18:25,135 Read the inserted entity. 
+    INFO 2020-04-22 02:18:25,141 sgdecoding_online_cs 
+    INFO 2020-04-22 02:18:25,141 155-69-149-126_9e78d9be-d453-499b-85f4-1bc20fc56e42.raw 
+    INFO 2020-04-22 02:18:25,141 Clean the file: /export/data/raw/138-75-17-200_4fb18cff-480f-4d31-ae86-1e8e3677d8b3.raw 
+    INFO 2020-04-22 02:18:25,141 Clean the file: /export/data/raw/138-75-17-200_b77bf498-a090-4460-ab82-ffb392596e23.txt 
+    INFO 2020-04-22 02:18:25,142 Clean the file: /export/data/raw/155-69-149-126_355a4915-fe8d-48ad-b273-fb646b7a820d.txt 
+    INFO 2020-04-22 02:18:25,142 Clean the file: /export/data/raw/155-69-149-126_3ebd30c1-3c8e-43fd-aa1c-5ce7d50d3d6c.raw 
+    INFO 2020-04-22 02:18:25,142 Clean the file: /export/data/raw/138-75-17-200_af411794-8023-4028-bac4-e306ef8bf9f6.txt 
+    INFO 2020-04-22 02:18:25,142 Clean the file: /export/data/raw/138-75-17-200_ba1649c9-5bcf-4b4d-b358-87e4db91b48a.raw 
+    INFO 2020-04-22 02:18:25,142 Clean the file: /export/data/raw/155-69-149-126_3ebd30c1-3c8e-43fd-aa1c-5ce7d50d3d6c.txt 
+    INFO 2020-04-22 02:18:25,143 Clean the file: /export/data/raw/155-69-149-126_355a4915-fe8d-48ad-b273-fb646b7a820d.raw 
+    INFO 2020-04-22 02:18:25,143 Clean the file: /export/data/raw/138-75-17-200_d2d17511-143e-4e53-8677-87fdcc6147a7.raw 
+    INFO 2020-04-22 02:18:25,144 Clean the file: /export/data/raw/138-75-17-200_b77bf498-a090-4460-ab82-ffb392596e23.raw 
+    INFO 2020-04-22 02:18:25,145 Clean the file: /export/data/raw/155-69-149-126_41d6bad2-e36a-4f27-ae71-b07f32d02408.raw 
+    INFO 2020-04-22 02:18:25,146 Clean the file: /export/data/raw/138-75-17-200_af411794-8023-4028-bac4-e306ef8bf9f6.raw 
+    INFO 2020-04-22 02:18:25,147 Clean the file: /export/data/raw/155-69-149-126_9e78d9be-d453-499b-85f4-1bc20fc56e42.txt 
+    INFO 2020-04-22 02:18:25,147 Clean the file: /export/data/raw/155-69-149-126_41d6bad2-e36a-4f27-ae71-b07f32d02408.txt 
+    INFO 2020-04-22 02:18:25,148 Clean the file: /export/data/raw/155-69-149-126_9e78d9be-d453-499b-85f4-1bc20fc56e42.raw 
